@@ -1,21 +1,19 @@
 # Hello there!
 
-##  👨🏻‍💻  About me
+## About me
 
-* 🔭  Fullstack software developer.
-* 🌱  Enthusiastic about design, algorithms, web development, and music.
-* 👯  Skills in teamwork, problem solving and leadership.
-* ⚡   Music and travel lover
-
-
-## Skills
-
-* 💻  C | Python | Java
-* 🌐  HTML5 | CSS3
-* 🔧  Visual Studio code
+* Passionate about algorithms, web design and music.
+* Great team-player.
+* Outstanding communication skills
 
 
-## Yo can find me :point_down:
+## Languages and tools
+
+* C | Python
+* HTML5 | CSS3 | JavaScript
+* SASS
+
+## How to reach me: 
 
 <p>
   <a href="https://www.linkedin.com/in/edgg72/">
