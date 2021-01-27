@@ -13,7 +13,7 @@
 * HTML5 | CSS3 | JavaScript
 * SASS
 
-### Find me around the web 🌐: 
+### Find me around the web: 
 
 <ul>
   <li>
