@@ -6,6 +6,7 @@
 * Great team-player
 * Outstanding communication skills
 
+---
 
 ### Languages and tools
 
@@ -20,7 +21,11 @@
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
 
+---
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=edgg72&show_icons=true&hide_border=true)
+
+---
 ### Find me around the web: 
 
 <ul>
