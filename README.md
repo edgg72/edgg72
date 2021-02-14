@@ -28,19 +28,15 @@
 ---
 ### Find me around the web: 
 
-<ul>
-  <li>
-     <a href="https://twitter.com/edgg72">
-        <img src="./twitter-icon.png">
-    </a>
-    
-  </li>
-  <li>
-    <a href="https://www.linkedin.com/in/edgg72">
-        <img src="./linkedin-icon.png">
-    </a>
-  </li>
-</ul>
+<a href="https://twitter.com/edgg72">
+  <img src="./twitter-icon.png">
+</a>
+
+
+<a href="https://www.linkedin.com/in/edgg72">
+  <img src="./linkedin-icon.png">
+</a>
+
 
 <!--
 **edgg72/edgg72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
