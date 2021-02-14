@@ -30,13 +30,13 @@
 
 <ul>
   <li>
-     <a href="https://twitter.com/oi_moralest">
+     <a href="https://twitter.com/edgg72">
         <img src="./icons/twitter.png" width="100px" height="100px">
     </a>
     
   </li>
   <li>
-    <a href="https://www.linkedin.com/in/oimoralest">
+    <a href="https://www.linkedin.com/in/edgg72">
         <img src="./icons/linkedin.png" width="100px" height="100px">
     </a>
   </li>
