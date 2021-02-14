@@ -30,13 +30,14 @@
 
 <ul>
   <li>
-    <a href="https://www.linkedin.com/in/edgg72/">
-      Linkedin
+     <a href="https://twitter.com/oi_moralest">
+        <img src="./icons/twitter.png" width="100px" height="100px">
     </a>
+    
   </li>
   <li>
-    <a href="https://twitter.com/edgg72">
-      Twitter
+    <a href="https://www.linkedin.com/in/oimoralest">
+        <img src="./icons/linkedin.png" width="100px" height="100px">
     </a>
   </li>
 </ul>
