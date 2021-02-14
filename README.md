@@ -2,6 +2,8 @@
 
 ### About me
 
+* Currently learning React
+* Interested in front-end jobs
 * Passionate about algorithms, web design and music
 * Great team-player
 * Outstanding communication skills
