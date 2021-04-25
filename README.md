@@ -2,7 +2,7 @@
 
 ### About me
 
-* Currently learning React
+* Always looking for what to learn next
 * Interested in front-end jobs
 * Passionate about algorithms, web design and music
 
