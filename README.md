@@ -3,7 +3,7 @@
 ### About me
 
 * Always looking for what to learn next
-* Interested in front-end jobs
+* Currently focused in front-end
 * Passionate about algorithms, web design and music
 
 
