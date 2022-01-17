@@ -27,12 +27,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=edgg72&show_icons=true&hide_border=true)
 
 ---
-### Find me around the web: 
-
-<a href="https://twitter.com/edgg72">
-  <img src="./twitter-icon.png">
-</a>
-
+### Find me in: 
 
 <a href="https://www.linkedin.com/in/edgg72">
   <img src="./linkedin-icon.png">
